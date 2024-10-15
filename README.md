@@ -13,3 +13,10 @@ Pandas: Data manipulation and cleaning.
 Geopandas: Handling geographical data and country shapes.
 CartoDB: The basemap styling (dark theme).
 HTML/CSS: To display the map in a browser.
+
+Libraries used :
+pandas
+folium
+openpyxl
+
+
